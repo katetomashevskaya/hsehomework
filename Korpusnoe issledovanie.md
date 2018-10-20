@@ -6,7 +6,9 @@
 
 Попробуем построчно проследить за частотностью у потреблений ключевых слов и словосочетаний:
 
-«Праздность» и «ложь» оказываются по соседству лишь в данном тексте Бунина (http://search1.ruscorpora.ru/search.xml?env=alpha&mycorp=%28%28created%253A%253C%253D%25221890%2522%29%29&mysent=&mysize=4139751&mysentsize=344955&mydocsize=19150&dpp=&spp=&spd=&text=lexgramm&mode=poetic&sort=gr_tagging&ext=10&nodia=1&parent1=0&level1=0&lex1=%EF%F0%E0%E7%E4%ED%EE%F1%F2%FC&gramm1=&flags1=&sem1=&parent2=0&level2=0&min2=1&max2=1000&lex2=%EB%EE%E6%FC&gramm2=&flags2=&sem2=).
+«Праздность» и «ложь» оказываются по соседству [лишь в анализируемом тексте Бунина.]( http://search1.ruscorpora.ru/search.xml?env=alpha&mycorp=%28%28created%253A%253C%253D%25221890%2522%29%29&mysent=&mysize=4139751&mysentsize=344955&mydocsize=19150&dpp=&spp=&spd=&text=lexgramm&mode=poetic&sort=gr_tagging&ext=10&nodia=1&parent1=0&level1=0&lex1=%EF%F0%E0%E7%E4%ED%EE%F1%F2%FC&gramm1=&flags1=&sem1=&parent2=0&level2=0&min2=1&max2=1000&lex2=%EB%EE%E6%FC&gramm2=&flags2=&sem2= "Заголовок ссылки")
+ 
+
 
 Точно так же обстоят дела с «суетными забавами» (http://search1.ruscorpora.ru/search.xml?env=alpha&mycorp=%28%28author%253A%2522%25CC.%2520%25DE.%2520%25CB%25E5%25F0%25EC%25EE%25ED%25F2%25EE%25E2%2522%29%29&mysent=&mysize=132971&mysentsize=12265&mydocsize=474&dpp=&spp=&spd=&text=lexgramm&mode=poetic&sort=gr_tagging&ext=10&nodia=1&parent1=0&level1=0&lex1=%F1%F3%E5%F2%ED%FB%E9&gramm1=&flags1=&sem1=&parent2=0&level2=0&min2=1&max2=100&lex2=%E7%E0%E1%E0%E2%E0&gramm2=&flags2=&sem2=). 
 
